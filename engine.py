@@ -67,4 +67,4 @@ def evaluate(model, data_loader, device):
     return coco_evaluator
 
 
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss# def draw(model, data_loader, device):
+# def draw(model, data_loader, device):
